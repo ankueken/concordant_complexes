@@ -13,6 +13,7 @@ Find concordant complexes under two scenarios:
 
 (i) Considering irreversibility constraints
 - Run concordant_pairs_irrev.m
+
 (ii) Considering irreversibility and growth optimality constraints
 - Run concordant_pairs_objective.m
 
