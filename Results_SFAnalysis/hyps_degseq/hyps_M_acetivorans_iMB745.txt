@@ -1,0 +1,2 @@
+Strongest,Strong,Weak,Weakest,Super_Weak,median_alpha,n,median_ntail
+False,False,True,True,False,1.9600000000000009,572,59.0

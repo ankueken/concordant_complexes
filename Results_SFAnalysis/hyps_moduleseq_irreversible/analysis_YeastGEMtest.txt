@@ -1,0 +1,2 @@
+num_edges,Weighted,Directed,Bipartite,Multigraph,Multiplex,fp_gml,n,alpha,xmin,ntail,Lpl,ppl,dexp,dln,dstrexp,dplwc,meandeg
+598,0,0,0,0,0,moduleseq_irreversible/YeastGEMtest.txt,598,7.560000000000006,2,598,-133.8404692021595,0.0,1,1,-1,0,149.5

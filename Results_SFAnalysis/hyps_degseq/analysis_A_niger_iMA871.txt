@@ -1,0 +1,2 @@
+num_edges,Weighted,Directed,Bipartite,Multigraph,Multiplex,fp_gml,n,alpha,xmin,ntail,Lpl,ppl,dexp,dln,dstrexp,dplwc,meandeg
+969,0,0,0,0,0,degseq/A_niger_iMA871test.txt,969,2.110000000000001,4,191,-585.2902323993958,0.319,1,0,1,0,22.53488372093023

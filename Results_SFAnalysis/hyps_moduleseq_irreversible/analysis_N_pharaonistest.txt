@@ -1,0 +1,2 @@
+num_edges,Weighted,Directed,Bipartite,Multigraph,Multiplex,fp_gml,n,alpha,xmin,ntail,Lpl,ppl,dexp,dln,dstrexp,dplwc,meandeg
+96,0,0,0,0,0,moduleseq_irreversible/N_pharaonistest.txt,96,2.870000000000002,2,96,-137.45796409798913,0.0,1,0,-1,0,12.0

@@ -1,0 +1,2 @@
+num_edges,Weighted,Directed,Bipartite,Multigraph,Multiplex,fp_gml,n,alpha,xmin,ntail,Lpl,ppl,dexp,dln,dstrexp,dplwc,meandeg
+86,0,0,0,0,0,moduleseq_no_balanced_irreversible/M_acetivorans_iMB745test.txt,86,5.100000000000003,2,86,-47.156135953369926,0.0,1,0,-1,0,21.5

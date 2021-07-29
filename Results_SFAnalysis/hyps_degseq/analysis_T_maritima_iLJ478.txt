@@ -1,0 +1,2 @@
+num_edges,Weighted,Directed,Bipartite,Multigraph,Multiplex,fp_gml,n,alpha,xmin,ntail,Lpl,ppl,dexp,dln,dstrexp,dplwc,meandeg
+387,0,0,0,0,0,degseq/T_maritima_iLJ478test.txt,387,2.250000000000001,3,130,-328.8834332601032,0.504,1,0,1,0,14.884615384615385

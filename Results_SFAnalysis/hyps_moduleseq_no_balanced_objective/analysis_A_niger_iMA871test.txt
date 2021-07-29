@@ -1,0 +1,2 @@
+num_edges,Weighted,Directed,Bipartite,Multigraph,Multiplex,fp_gml,n,alpha,xmin,ntail,Lpl,ppl,dexp,dln,dstrexp,dplwc,meandeg
+318,0,0,0,0,0,moduleseq_no_balanced_objective/A_niger_iMA871test.txt,318,3.1300000000000017,2,318,-399.9329330196274,0.0,1,1,-1,0,26.5

@@ -1,0 +1,2 @@
+num_edges,Weighted,Directed,Bipartite,Multigraph,Multiplex,fp_gml,n,alpha,xmin,ntail,Lpl,ppl,dexp,dln,dstrexp,dplwc,meandeg
+429,0,0,0,0,0,moduleseq_irreversible/Ecoli2011-iJO1366test.txt,429,7.090000000000005,2,429,-113.38890466861176,0.0,2,1,-1,0,107.25

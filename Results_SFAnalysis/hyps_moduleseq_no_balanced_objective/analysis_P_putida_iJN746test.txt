@@ -1,0 +1,2 @@
+num_edges,Weighted,Directed,Bipartite,Multigraph,Multiplex,fp_gml,n,alpha,xmin,ntail,Lpl,ppl,dexp,dln,dstrexp,dplwc,meandeg
+150,0,0,0,0,0,moduleseq_no_balanced_objective/P_putida_iJN746test.txt,150,5.780000000000004,2,150,-63.78755242411842,0.0,1,1,0,0,37.5

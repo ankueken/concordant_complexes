@@ -1,0 +1,2 @@
+num_edges,Weighted,Directed,Bipartite,Multigraph,Multiplex,fp_gml,n,alpha,xmin,ntail,Lpl,ppl,dexp,dln,dstrexp,dplwc,meandeg
+1491,0,0,0,0,0,effective_degreeseq_irreversible/C_reinhardtii_iCre1355_autotest.txt,1491,3.1800000000000015,1,1491,-885.7132294072969,0.0,1,1,-1,0,64.82608695652173

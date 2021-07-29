@@ -1,0 +1,2 @@
+num_edges,Weighted,Directed,Bipartite,Multigraph,Multiplex,fp_gml,n,alpha,xmin,ntail,Lpl,ppl,dexp,dln,dstrexp,dplwc,meandeg
+562,0,0,0,0,0,degseq/N_pharaonistest.txt,562,2.6700000000000017,2,457,-729.6410951483867,0.0,2,1,-1,0,17.03030303030303

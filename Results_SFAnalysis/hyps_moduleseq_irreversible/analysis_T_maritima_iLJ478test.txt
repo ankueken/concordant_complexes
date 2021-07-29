@@ -1,0 +1,2 @@
+num_edges,Weighted,Directed,Bipartite,Multigraph,Multiplex,fp_gml,n,alpha,xmin,ntail,Lpl,ppl,dexp,dln,dstrexp,dplwc,meandeg
+45,0,0,0,0,0,moduleseq_irreversible/T_maritima_iLJ478test.txt,45,3.8300000000000027,2,45,-41.10251720905235,0.0,1,0,-1,0,15.0

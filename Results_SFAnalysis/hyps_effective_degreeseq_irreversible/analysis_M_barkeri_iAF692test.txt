@@ -1,0 +1,2 @@
+num_edges,Weighted,Directed,Bipartite,Multigraph,Multiplex,fp_gml,n,alpha,xmin,ntail,Lpl,ppl,dexp,dln,dstrexp,dplwc,meandeg
+515,0,0,0,0,0,effective_degreeseq_irreversible/M_barkeri_iAF692test.txt,515,2.6000000000000014,1,515,-481.2575878527332,0.0,2,1,1,0,25.75

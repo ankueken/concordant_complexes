@@ -1,0 +1,2 @@
+num_edges,Weighted,Directed,Bipartite,Multigraph,Multiplex,fp_gml,n,alpha,xmin,ntail,Lpl,ppl,dexp,dln,dstrexp,dplwc,meandeg
+724,0,0,0,0,0,effective_degreeseq_objective/P_putida_iJN746test.txt,724,3.3400000000000016,1,724,-381.7922363097291,0.0,1,1,-1,0,36.2

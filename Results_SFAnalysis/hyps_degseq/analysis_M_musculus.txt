@@ -1,0 +1,2 @@
+num_edges,Weighted,Directed,Bipartite,Multigraph,Multiplex,fp_gml,n,alpha,xmin,ntail,Lpl,ppl,dexp,dln,dstrexp,dplwc,meandeg
+819,0,0,0,0,0,degseq/M_musculustest.txt,819,2.370000000000001,2,576,-1096.4888368807372,0.522,1,1,-1,0,21.0

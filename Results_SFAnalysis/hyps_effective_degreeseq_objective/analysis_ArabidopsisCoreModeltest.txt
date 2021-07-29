@@ -1,0 +1,2 @@
+num_edges,Weighted,Directed,Bipartite,Multigraph,Multiplex,fp_gml,n,alpha,xmin,ntail,Lpl,ppl,dexp,dln,dstrexp,dplwc,meandeg
+407,0,0,0,0,0,effective_degreeseq_objective/ArabidopsisCoreModeltest.txt,407,3.5500000000000025,1,407,-185.1626714567595,0.582,1,0,0,0,67.83333333333333

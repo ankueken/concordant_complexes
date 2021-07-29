@@ -1,4 +1,5 @@
 clear
+cd Results_SFAnalysis/
 files = dir('hyps*');
 % Get a logical vector that tells which is a directory.
 dirFlags = [files.isdir];

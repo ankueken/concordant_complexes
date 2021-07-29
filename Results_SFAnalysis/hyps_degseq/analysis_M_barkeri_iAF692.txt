@@ -1,0 +1,2 @@
+num_edges,Weighted,Directed,Bipartite,Multigraph,Multiplex,fp_gml,n,alpha,xmin,ntail,Lpl,ppl,dexp,dln,dstrexp,dplwc,meandeg
+515,0,0,0,0,0,degseq/M_barkeri_iAF692test.txt,515,1.9900000000000009,5,65,-230.21338561056263,0.216,2,0,0,0,17.166666666666668

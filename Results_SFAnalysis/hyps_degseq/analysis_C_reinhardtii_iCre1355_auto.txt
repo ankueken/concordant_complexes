@@ -1,0 +1,2 @@
+num_edges,Weighted,Directed,Bipartite,Multigraph,Multiplex,fp_gml,n,alpha,xmin,ntail,Lpl,ppl,dexp,dln,dstrexp,dplwc,meandeg
+1491,0,0,0,0,0,degseq/C_reinhardtii_iCre1355_autotest.txt,1491,2.280000000000001,2,1219,-2466.4880233533063,0.047,1,0,-1,0,27.61111111111111

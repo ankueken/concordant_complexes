@@ -1,0 +1,2 @@
+num_edges,Weighted,Directed,Bipartite,Multigraph,Multiplex,fp_gml,n,alpha,xmin,ntail,Lpl,ppl,dexp,dln,dstrexp,dplwc,meandeg
+1555,0,0,0,0,0,effective_degreeseq_objective/Ecoli2011-iJO1366test.txt,1555,3.7100000000000026,1,1555,-631.8330263255118,0.0,1,1,-1,0,70.68181818181819
