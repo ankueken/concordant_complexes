@@ -39,9 +39,18 @@ Degree, effective degree, module size distributions
 
 
 Modules and metabolic subsystems
+- Results TableS5_S6_classification.m
 - Results_module_pathways_*.m
 - Results_hypergeom_test_modules_*.m
 
 
 Reducibility index
 - Results_reducibility_index.m
+
+
+Random network variants
+- folder 'randomization\' includes random network variants
+- folder 'Results_concordant_randomization_irreversibility_considered\' 
+  includes Results of calculating concordant complexes and modules running
+  function 'concordant_randomized_networks' for 58 random network variants
+- Results_statistics_random_variants.m 

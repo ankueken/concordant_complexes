@@ -97,6 +97,12 @@ for i=1:size(class_count,1)
     end
 end
 
-% order columns based on number of significant 
-sum((sum(p_hypergeom<=0.05,'omitnan')./sum(~isnan(p_hypergeom)))>=0.5)
-sum((sum(p_hypergeom<=0.05,'omitnan')./sum(~isnan(p_hypergeom)))==1)
+[h, crit_p, adj_ci_cvrg, adj_p]=fdr_bh(p_hypergeom,0.05,'pdep','yes');
+
+disp('percentage significant module-pathway enrichment:')
+disp('significant enrichment in at least 50% of the concordance modules that')
+disp('contain complexes of that subsystem')
+sum((sum(adj_p<=0.05,'omitnan')./sum(~isnan(adj_p)))>=0.5)/length(uniqueSubSystems)
+disp('significant enrichment in all concordance modules that')
+disp('contain complexes of that subsystem')
+sum((sum(adj_p<=0.05,'omitnan')./sum(~isnan(adj_p)))==1)/length(uniqueSubSystems)
